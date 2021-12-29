@@ -32,7 +32,7 @@ print("The GCD of number is",GCD(x,y))
 ```
 
 ## Output:
-![gcd of two number](gcd.png)
+![gcd of two number](gcd.jpeg)
 
 
 ## Result:
